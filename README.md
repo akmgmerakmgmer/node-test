@@ -1,1 +1,1 @@
-# node-test
+# node-js-template

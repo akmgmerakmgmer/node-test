@@ -1,0 +1,14 @@
+{
+    "email_not_correct":"البريد الالكتروني غير صحيح",
+    "password_not_correct":"الرقم السري غير صحيح",
+    "unique_username":"اسم المستخدم مستخدم بالفعل برجاء اختيار اسم آخر",
+    "unique_email":"البريد الالكتروني مسجل بالفعل",
+    "username_required":"اسم المستخدم مطلوب",
+    "username_min_length":"يجب ان يكون اسم المستخدم اكثر من 6 حروف",
+    "email_required":"البريد الالكتروني مطلوب",
+    "email_not_valid":"برجاء ادخال بريد الكتروني صحيح",
+    "password_min_length":"يجب ان يكون الرقم السري اكثر من 6 حروف",
+    "password_required":"الرقم السري مطلوب",
+    "number_min_length":"يجب ان يكون الرقم مكون من 11 رقم",
+    "number_required":"الرقم مطلوب"
+}

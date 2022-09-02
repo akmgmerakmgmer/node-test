@@ -1,0 +1,14 @@
+{
+    "email_not_correct":"Incorrect Email",
+    "password_not_correct":"Incorrect Password",
+    "unique_username":"Username already in use",
+    "unique_email":"Email already in use",
+    "username_required":"Username is required",
+    "username_min_length":"Minimum username length is 6 characters",
+    "email_required":"Email is required",
+    "email_not_valid":"Please enter a valid email",
+    "password_min_length":"Minimum password length is 6 characters",
+    "password_required":"Password is required",
+    "number_min_length":"Number length must be 11 characters",
+    "number_required":"Number is required"
+}
